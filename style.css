@@ -1,0 +1,17 @@
+body{
+    background-color: #CCCCCC;
+}
+
+.titulo{
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.Mel_header{
+    width: 20%;
+    border-radius: 10px;
+}
+
+.Mel{
+    width: 20%;
+}
